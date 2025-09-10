@@ -51,7 +51,7 @@ fn main() -> io::Result<()> {
         sum_of_last = c_sum;
     }
 
-    println!("Group of three increaces: \t{:?}", increases_of_three);
+    println!("Group of three increases: \t{:?}", increases_of_three); //typo :)
 
     Ok(())
 }
